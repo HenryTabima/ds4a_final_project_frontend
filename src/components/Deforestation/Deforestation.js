@@ -2,19 +2,20 @@ import React, { Component } from 'react';
 import { Map, TileLayer, GeoJSON } from "react-leaflet";
 import Slider from 'react-rangeslider';
 import c3 from 'c3';
-import "../../../node_modules/c3/c3.min.css"; 
+import "../../../node_modules/c3/c3.min.css";
 
 import * as L from 'leaflet';
 
 import Legend from "./MapLegend";
+import Loader from '../Loader'
 
 
-import departments from '../../data/departments.geo.json';
-import deforestation from '../../data/deforestations.json';
+// import departments from '../../data/departments.geo.json';
+// import deforestation from '../../data/deforestations.json';
 
 const styles = {
   map: {
-    height: 700,
+    height: '80vh',
     boxSizing: 'border-box',
     width: '100%'
   },
@@ -23,7 +24,7 @@ const styles = {
   }
 };
 
-let yearsRange = Array.from({length: 16}, (v, k) => `${k + 2003}` ); 
+let yearsRange = Array.from({length: 16}, (v, k) => `${k + 2003}` );
 yearsRange = ['x'].concat(yearsRange);
 
 export class Deforestation extends Component {
@@ -35,16 +36,31 @@ export class Deforestation extends Component {
       lng: -74.075237,
       zoom: 6,
       year: 2003,
+      departments: null,
+      deforestation: null,
       department: null,
-      columns: [
-        yearsRange,
-        deforestation['data']['national']
-      ]
+      columns: null
     };
   }
 
   componentDidMount() {
-    this.renderChart();
+    Promise.all([
+      import('../../data/departments.geo.json'),
+      import('../../data/deforestations.json')
+    ]).then(vars => {
+      const [departments, deforestation] = vars.map(module => module.default)
+      console.log(departments)
+      this.setState({
+        columns: [
+          yearsRange,
+          deforestation['data']['national']
+        ],
+        departments,
+        deforestation
+      }, () => {
+        this.renderChart();
+      })
+    })
   }
 
   style = (feature) => {
@@ -137,7 +153,7 @@ export class Deforestation extends Component {
         columns =  [
           columns[0],
           columns[1],
-          deforestation['data'][department]
+          this.state.deforestation['data'][department]
         ];
         this.setState({ department, columns });
         this.renderChart();
@@ -155,6 +171,7 @@ export class Deforestation extends Component {
   }
 
   render() {
+    if (!this.state.departments) return <Loader />
     const position = [this.state.lat, this.state.lng];
     return (
       <div className="main-wrapper Layout">
@@ -164,7 +181,7 @@ export class Deforestation extends Component {
             <div id="timeline-chart" className="mini-chart"></div>
           </div>
         </div>
-        <div className="ChartsArea">
+        <div className="MapArea">
           <div style={styles.wrapper} className="box">
             <Map
               style={styles.map}
@@ -173,7 +190,7 @@ export class Deforestation extends Component {
               maxzoom={9}
               center={position}>
                   <GeoJSON
-                    data={departments}
+                    data={this.state.departments}
                     style={this.style.bind(this)}
                     onEachFeature={this.onEachFeature.bind(null, this)}
                     ref="geojson"
