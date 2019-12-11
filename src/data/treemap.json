@@ -1,0 +1,3163 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 130
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 299
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 35
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 35
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 14
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "FRIJOL",
+                            "value": 10
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 337
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "YUCA",
+                            "value": 5637
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "amazonas"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 76603
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 106019
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 27646
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 44995
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 10799
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 1160
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 3753
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 113007
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 13693
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 7405
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 6533
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 2249
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 31729
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 17662
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 85114
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 491476
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "MALANGA",
+                            "value": 4422
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 111576
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 37970
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "antioquia"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 40328
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 52293
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 948
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 1218
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 1011
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 200
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 54479
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "YUCA",
+                            "value": 30593
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "arauca"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 1668
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 36408
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 75
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 11466
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 255
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 20
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 143
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "FRIJOL",
+                            "value": 1961
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 1156
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 265
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 22207
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "atlantico"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 91952
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 306339
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 1832
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 10835
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 8128
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 30
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 1439
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 5
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "FRIJOL",
+                            "value": 9043
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 176917
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 27174
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 4203
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 7774
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 167250
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "bolivar"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 45151
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 3255
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 292
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 189
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 227
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 2488
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 4068
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 4606
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 9846
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 14380
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 11917
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 21526
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 36714
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "MALANGA",
+                            "value": 13294
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 1961
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 11052
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "boyaca"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "MAIZ",
+                            "value": 3501
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 2321
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 7881
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 41020
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 595
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 129
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 63
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 2287
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 396
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 2713
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 201
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 184
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 2402
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 14623
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 286821
+                        },
+                        {
+                            "name": "CA\u00d1A",
+                            "value": 33461
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "MALANGA",
+                            "value": 29
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 12005
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 1527
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "caldas"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 6209
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 37832
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 19293
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 135
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 25
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 3172
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 110
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 36
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 3
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 12
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 580
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 1410
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 13816
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 12252
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "YUCA",
+                            "value": 32223
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "caqueta"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 465204
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 13322
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 1006
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 4210
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 849
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 56
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 1175
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 2696
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 719
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 13
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 25
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 38
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 192
+                        },
+                        {
+                            "name": "SOYA",
+                            "value": 440
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 311978
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 4320
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 9691
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 2256
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 8128
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "casanare"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 7712
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 40287
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 3143
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 3986
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 1202
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 129
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 5114
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 1722
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 764
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 1900
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 121
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 804
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 13240
+                        },
+                        {
+                            "name": "SOYA",
+                            "value": 4
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 2496
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 13664
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 355365
+                        },
+                        {
+                            "name": "CA\u00d1A",
+                            "value": 478723
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "MALANGA",
+                            "value": 3123
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 8234
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 29649
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "cauca"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 48261
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 118764
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 8288
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 490
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 9610
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 6221
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 1740
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 1209
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 550
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 1623
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 2183
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 41
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 51
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 16872
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 344218
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 26957
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 89973
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 1944
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 24950
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "cesar"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 56541
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 53754
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 1487
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 2524
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 9237
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 8
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 26
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "FRIJOL",
+                            "value": 33
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 1585
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 17988
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 505
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PAPA",
+                            "value": 120
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 32585
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "choco"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 92263
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 244702
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 13769
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 7418
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 21
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 10381
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 4384
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 813
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 13
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "FRIJOL",
+                            "value": 3530
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 16988
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 9691
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 8844
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 89670
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "cordoba"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 5255
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 77746
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 4262
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 2227
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 7183
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 38918
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 961
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 1986
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 16236
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 13380
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 6216
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 10612
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 14138
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 19118
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 21798
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 24650
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 129474
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PAPA",
+                            "value": 18721
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 5002
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 10867
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "cundinamarca"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "MAIZ",
+                            "value": 633
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 99
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 1
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 727
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 4324
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "YUCA",
+                            "value": 4288
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "guainia"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 6913
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 46127
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 1618
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 1939
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 1125
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 97
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 9990
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 378
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 1063
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "FRIJOL",
+                            "value": 6188
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 9017
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 2374
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 19164
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 1998
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 10793
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "guajira"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 13918
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 28686
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 6692
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 1563
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 4219
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "YUCA",
+                            "value": 12652
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "guaviare"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 88204
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 103234
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 2035
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 9468
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 992
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 1434
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 2596
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 10909
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 2864
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 4475
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 3203
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 56514
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 29570
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 586442
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 20900
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 13281
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "huila"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 11044
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 112391
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 2366
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "MANGO",
+                            "value": 13278
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 3470
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 39824
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 1189
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 1805
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "FRIJOL",
+                            "value": 7731
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 184162
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 8003
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 81704
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 1297
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 80661
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "magdalena"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 213448
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 301586
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 7675
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 67603
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 7739
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 4873
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 18024
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 201
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 42
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 207
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 128
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 2919
+                        },
+                        {
+                            "name": "SOYA",
+                            "value": 149473
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 913526
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 33438
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 10499
+                        },
+                        {
+                            "name": "CA\u00d1A",
+                            "value": 53306
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PAPA",
+                            "value": 1
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 12013
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 30432
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "meta"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 6211
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 54477
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 810
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 2307
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 664
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 839
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 1545
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 18878
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 1631
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 2616
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 4794
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 34154
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 31587
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 76601
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 65883
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 143200
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PAPA",
+                            "value": 10113
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 5363
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 9756
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "narino"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 95824
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 24231
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 2466
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 900
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 4545
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 83
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 560
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 1196
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 3454
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 900
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 7856
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 844
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 2217
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 13781
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 140632
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 37288
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 91298
+                        },
+                        {
+                            "name": "CA\u00d1A",
+                            "value": 4419
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PAPA",
+                            "value": 2927
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 6928
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 37506
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "norte de santander"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 4196
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 19835
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 1815
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 149
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 9
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 1315
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 608
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 811
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 95
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 1726
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 13859
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 447
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "YUCA",
+                            "value": 8946
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "putumayo"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "MAIZ",
+                            "value": 3754
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 436
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 5
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 12484
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 690
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 5355
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 11731
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 134
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 1233
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 26
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 518
+                        },
+                        {
+                            "name": "SOYA",
+                            "value": 2
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 1122
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 92989
+                        },
+                        {
+                            "name": "CA\u00d1A",
+                            "value": 2474
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 20340
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 1408
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "quindio"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "MAIZ",
+                            "value": 6096
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 1895
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 16234
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 179
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 893
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 2524
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 138
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 564
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 31
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 1586
+                        },
+                        {
+                            "name": "SOYA",
+                            "value": 130
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 6040
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 194478
+                        },
+                        {
+                            "name": "CA\u00d1A",
+                            "value": 30500
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 23782
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 679
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "risaralda"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "MAIZ",
+                            "value": 3
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 1
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 2
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 3
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 1
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 2
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "YUCA",
+                            "value": 21
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "san andres"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 12289
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 41738
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 3417
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 36157
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 19479
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 308
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 1126
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 46326
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 8821
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 759
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 7430
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 157
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 1748
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 20708
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 357929
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 193525
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 196745
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PAPA",
+                            "value": 766
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 19085
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 39273
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "santander"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 122523
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 76121
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 2639
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 2289
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 1950
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 91
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 139
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "FRIJOL",
+                            "value": 597
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 7108
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 1236
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 1774
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 55594
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "sucre"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 266635
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 163467
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 5616
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 670
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 54288
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 29642
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 312
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 576
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 7295
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 3703
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 2645
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 406
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 3284
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 48181
+                        },
+                        {
+                            "name": "SOYA",
+                            "value": 45
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 256
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 46564
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 423180
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PAPA",
+                            "value": 1638
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 20941
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 13828
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "tolima"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "PLATANO",
+                            "value": 251789
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "total 22 departamentos"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 9371
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 73504
+                        },
+                        {
+                            "name": "MAIZ FORRAJERO",
+                            "value": 2853
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 13455
+                        },
+                        {
+                            "name": "MANGO",
+                            "value": 859
+                        },
+                        {
+                            "name": "PAPAYA",
+                            "value": 3893
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 11379
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 21453
+                        },
+                        {
+                            "name": "TOMATE DE ARBOL",
+                            "value": 776
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 5381
+                        },
+                        {
+                            "name": "ZANAHORIA",
+                            "value": 977
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "ARVEJA",
+                            "value": 572
+                        },
+                        {
+                            "name": "FRIJOL",
+                            "value": 4992
+                        },
+                        {
+                            "name": "SOYA",
+                            "value": 8363
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 4971
+                        },
+                        {
+                            "name": "CAFE",
+                            "value": 221110
+                        },
+                        {
+                            "name": "CA\u00d1A",
+                            "value": 1910493
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PAPA",
+                            "value": 1275
+                        },
+                        {
+                            "name": "PLATANO",
+                            "value": 18877
+                        },
+                        {
+                            "name": "YUCA",
+                            "value": 2659
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "valle del cauca"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 30
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 1037
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 195
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 1
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 120
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "YUCA",
+                            "value": 5941
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "vaupes"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "ARROZ",
+                            "value": 2030
+                        },
+                        {
+                            "name": "MAIZ",
+                            "value": 58153
+                        }
+                    ],
+                    "name": "CEREALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CAUCHO",
+                            "value": 906
+                        }
+                    ],
+                    "name": "FORESTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "AGUACATE",
+                            "value": 4
+                        },
+                        {
+                            "name": "PI\u00d1A",
+                            "value": 248
+                        }
+                    ],
+                    "name": "FRUTALES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "TOMATE",
+                            "value": 680
+                        }
+                    ],
+                    "name": "HORTALIZAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "FRIJOL",
+                            "value": 16
+                        },
+                        {
+                            "name": "SOYA",
+                            "value": 29700
+                        }
+                    ],
+                    "name": "LEGUMINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "PALMA DE ACEITE",
+                            "value": 26827
+                        }
+                    ],
+                    "name": "OLEAGINOSAS"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "CACAO",
+                            "value": 3139
+                        }
+                    ],
+                    "name": "OTROS PERMANENTES"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "YUCA",
+                            "value": 2133
+                        }
+                    ],
+                    "name": "TUBERCULOS Y PLATANOS"
+                }
+            ],
+            "name": "vichada"
+        }
+    ],
+    "name": "crops"
+}

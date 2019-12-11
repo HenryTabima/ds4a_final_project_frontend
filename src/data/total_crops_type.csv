@@ -1,0 +1,459 @@
+DEPARTAMENTO,SUBGRUPO DE CULTIVO,Área Sembrada(ha)
+amazonas,AGUACATE,35
+amazonas,ARROZ,130
+amazonas,CACAO,337
+amazonas,FRIJOL,10
+amazonas,MAIZ FORRAJERO,299
+amazonas,PIÑA,35
+amazonas,TOMATE,14
+amazonas,YUCA,5637
+antioquia,AGUACATE,44995
+antioquia,ARROZ,76603
+antioquia,ARVEJA,2249
+antioquia,CACAO,85114
+antioquia,CAFE,491476
+antioquia,CAUCHO,27646
+antioquia,FRIJOL,31729
+antioquia,MAIZ FORRAJERO,106019
+antioquia,MALANGA,4422
+antioquia,MANGO,10799
+antioquia,PALMA DE ACEITE,17662
+antioquia,PAPAYA,1160
+antioquia,PIÑA,3753
+antioquia,PLATANO,224583
+antioquia,TOMATE,7405
+antioquia,TOMATE DE ARBOL,13693
+antioquia,YUCA,37970
+antioquia,ZANAHORIA,6533
+arauca,AGUACATE,948
+arauca,ARROZ,40328
+arauca,CACAO,54479
+arauca,MAIZ FORRAJERO,52293
+arauca,PALMA DE ACEITE,200
+arauca,PAPAYA,1218
+arauca,PIÑA,1011
+arauca,YUCA,30593
+atlantico,AGUACATE,75
+atlantico,ARROZ,1668
+atlantico,FRIJOL,1961
+atlantico,MAIZ FORRAJERO,36408
+atlantico,MANGO,11466
+atlantico,PALMA DE ACEITE,1156
+atlantico,PAPAYA,255
+atlantico,PIÑA,20
+atlantico,PLATANO,265
+atlantico,TOMATE,143
+atlantico,YUCA,22207
+bolivar,AGUACATE,10835
+bolivar,ARROZ,91952
+bolivar,CACAO,27174
+bolivar,CAFE,4203
+bolivar,CAUCHO,1832
+bolivar,FRIJOL,9043
+bolivar,MAIZ FORRAJERO,306339
+bolivar,MANGO,8128
+bolivar,PALMA DE ACEITE,176917
+bolivar,PAPAYA,30
+bolivar,PIÑA,1439
+bolivar,PLATANO,7774
+bolivar,TOMATE,5
+bolivar,YUCA,167250
+boyaca,AGUACATE,3255
+boyaca,ARVEJA,14380
+boyaca,CACAO,21526
+boyaca,CAFE,36714
+boyaca,FRIJOL,11917
+boyaca,MAIZ FORRAJERO,45151
+boyaca,MALANGA,13294
+boyaca,MANGO,292
+boyaca,PAPAYA,189
+boyaca,PIÑA,227
+boyaca,PLATANO,4449
+boyaca,TOMATE,4606
+boyaca,TOMATE DE ARBOL,4068
+boyaca,YUCA,11052
+boyaca,ZANAHORIA,9846
+caldas,AGUACATE,41020
+caldas,ARVEJA,184
+caldas,CACAO,14623
+caldas,CAFE,286821
+caldas,CAUCHO,7881
+caldas,CAÑA,33461
+caldas,FRIJOL,2402
+caldas,MAIZ,3501
+caldas,MAIZ FORRAJERO,2321
+caldas,MALANGA,29
+caldas,MANGO,595
+caldas,PAPAYA,129
+caldas,PIÑA,63
+caldas,PLATANO,14292
+caldas,TOMATE,2713
+caldas,TOMATE DE ARBOL,396
+caldas,YUCA,1527
+caldas,ZANAHORIA,201
+caqueta,AGUACATE,135
+caqueta,ARROZ,6209
+caqueta,ARVEJA,12
+caqueta,CACAO,13816
+caqueta,CAFE,12252
+caqueta,CAUCHO,19293
+caqueta,FRIJOL,580
+caqueta,MAIZ,37832
+caqueta,PALMA DE ACEITE,1410
+caqueta,PAPAYA,25
+caqueta,PIÑA,3172
+caqueta,TOMATE,36
+caqueta,TOMATE DE ARBOL,110
+caqueta,YUCA,32223
+caqueta,ZANAHORIA,3
+casanare,AGUACATE,849
+casanare,ARROZ,465204
+casanare,ARVEJA,38
+casanare,CACAO,4320
+casanare,CAFE,9691
+casanare,CAUCHO,4210
+casanare,FRIJOL,192
+casanare,MAIZ,13322
+casanare,MAIZ FORRAJERO,1006
+casanare,MANGO,56
+casanare,PALMA DE ACEITE,311978
+casanare,PAPAYA,1175
+casanare,PIÑA,2696
+casanare,PLATANO,2975
+casanare,SOYA,440
+casanare,TOMATE,25
+casanare,TOMATE DE ARBOL,13
+casanare,YUCA,8128
+cauca,AGUACATE,3986
+cauca,ARROZ,7712
+cauca,ARVEJA,804
+cauca,CACAO,13664
+cauca,CAFE,355365
+cauca,CAÑA,478723
+cauca,FRIJOL,13240
+cauca,MAIZ,40287
+cauca,MAIZ FORRAJERO,3143
+cauca,MALANGA,3123
+cauca,MANGO,1202
+cauca,PALMA DE ACEITE,2496
+cauca,PAPAYA,129
+cauca,PIÑA,5114
+cauca,PLATANO,9956
+cauca,SOYA,4
+cauca,TOMATE,1900
+cauca,TOMATE DE ARBOL,764
+cauca,YUCA,29649
+cauca,ZANAHORIA,121
+cesar,AGUACATE,9610
+cesar,ARROZ,48261
+cesar,ARVEJA,51
+cesar,CACAO,26957
+cesar,CAFE,89973
+cesar,CAUCHO,490
+cesar,FRIJOL,16872
+cesar,MAIZ,118764
+cesar,MAIZ FORRAJERO,8288
+cesar,MANGO,6221
+cesar,PALMA DE ACEITE,344218
+cesar,PAPAYA,1740
+cesar,PIÑA,1209
+cesar,PLATANO,2494
+cesar,TOMATE,2183
+cesar,TOMATE DE ARBOL,1623
+cesar,YUCA,24950
+cesar,ZANAHORIA,41
+choco,AGUACATE,1487
+choco,ARROZ,56541
+choco,CACAO,17988
+choco,CAFE,505
+choco,FRIJOL,33
+choco,MAIZ,53754
+choco,PALMA DE ACEITE,1585
+choco,PAPA,120
+choco,PIÑA,2524
+choco,PLATANO,9237
+choco,TOMATE,26
+choco,TOMATE DE ARBOL,8
+choco,YUCA,32585
+cordoba,AGUACATE,21
+cordoba,ARROZ,92263
+cordoba,CACAO,9691
+cordoba,CAUCHO,7418
+cordoba,FRIJOL,3530
+cordoba,MAIZ,244702
+cordoba,MAIZ FORRAJERO,13769
+cordoba,MANGO,10381
+cordoba,PALMA DE ACEITE,16988
+cordoba,PAPAYA,4384
+cordoba,PIÑA,813
+cordoba,PLATANO,8844
+cordoba,TOMATE,13
+cordoba,YUCA,89670
+cundinamarca,AGUACATE,7183
+cundinamarca,ARROZ,5255
+cundinamarca,ARVEJA,14138
+cundinamarca,CACAO,24650
+cundinamarca,CAFE,129474
+cundinamarca,CAUCHO,2227
+cundinamarca,FRIJOL,19118
+cundinamarca,MAIZ,77746
+cundinamarca,MAIZ FORRAJERO,4262
+cundinamarca,MANGO,38918
+cundinamarca,PALMA DE ACEITE,21798
+cundinamarca,PAPA,18721
+cundinamarca,PAPAYA,961
+cundinamarca,PIÑA,1986
+cundinamarca,PLATANO,21238
+cundinamarca,TOMATE,6216
+cundinamarca,TOMATE DE ARBOL,13380
+cundinamarca,YUCA,10867
+cundinamarca,ZANAHORIA,10612
+guainia,AGUACATE,1
+guainia,CACAO,4324
+guainia,CAUCHO,99
+guainia,MAIZ,633
+guainia,PIÑA,727
+guainia,YUCA,4288
+guajira,AGUACATE,1939
+guajira,ARROZ,6913
+guajira,CACAO,2374
+guajira,CAFE,19164
+guajira,FRIJOL,6188
+guajira,MAIZ,46127
+guajira,MAIZ FORRAJERO,1618
+guajira,MANGO,1125
+guajira,PALMA DE ACEITE,9017
+guajira,PAPAYA,97
+guajira,PLATANO,11988
+guajira,TOMATE,1063
+guajira,TOMATE DE ARBOL,378
+guajira,YUCA,10793
+guaviare,ARROZ,13918
+guaviare,CACAO,4219
+guaviare,CAUCHO,6692
+guaviare,MAIZ,28686
+guaviare,PIÑA,1563
+guaviare,YUCA,12652
+huila,AGUACATE,9468
+huila,ARROZ,88204
+huila,ARVEJA,3203
+huila,CACAO,29570
+huila,CAFE,586442
+huila,FRIJOL,56514
+huila,MAIZ,103234
+huila,MAIZ FORRAJERO,2035
+huila,MANGO,992
+huila,PAPAYA,1434
+huila,PIÑA,2596
+huila,PLATANO,31809
+huila,TOMATE,4475
+huila,TOMATE DE ARBOL,2864
+huila,YUCA,13281
+magdalena,ARROZ,11044
+magdalena,CACAO,8003
+magdalena,CAFE,81704
+magdalena,FRIJOL,7731
+magdalena,MAIZ,112391
+magdalena,MAIZ FORRAJERO,2366
+magdalena,MANGO,13278
+magdalena,PALMA DE ACEITE,184162
+magdalena,PAPAYA,3470
+magdalena,PLATANO,41121
+magdalena,TOMATE,1805
+magdalena,TOMATE DE ARBOL,1189
+magdalena,YUCA,80661
+meta,AGUACATE,7739
+meta,ARROZ,213448
+meta,ARVEJA,128
+meta,CACAO,33438
+meta,CAFE,10499
+meta,CAUCHO,67603
+meta,CAÑA,53306
+meta,FRIJOL,2919
+meta,MAIZ,301586
+meta,MAIZ FORRAJERO,7675
+meta,PALMA DE ACEITE,913526
+meta,PAPA,1
+meta,PAPAYA,4873
+meta,PIÑA,18024
+meta,PLATANO,12214
+meta,SOYA,149473
+meta,TOMATE,207
+meta,TOMATE DE ARBOL,42
+meta,YUCA,30432
+narino,AGUACATE,2307
+narino,ARROZ,6211
+narino,ARVEJA,34154
+narino,CACAO,65883
+narino,CAFE,143200
+narino,FRIJOL,31587
+narino,MAIZ,54477
+narino,MAIZ FORRAJERO,810
+narino,MANGO,664
+narino,PALMA DE ACEITE,76601
+narino,PAPA,10113
+narino,PAPAYA,839
+narino,PIÑA,1545
+narino,PLATANO,24241
+narino,TOMATE,2616
+narino,TOMATE DE ARBOL,1631
+narino,YUCA,9756
+narino,ZANAHORIA,4794
+norte de santander,AGUACATE,4545
+norte de santander,ARROZ,95824
+norte de santander,ARVEJA,2217
+norte de santander,CACAO,37288
+norte de santander,CAFE,91298
+norte de santander,CAUCHO,900
+norte de santander,CAÑA,4419
+norte de santander,FRIJOL,13781
+norte de santander,MAIZ,24231
+norte de santander,MAIZ FORRAJERO,2466
+norte de santander,MANGO,83
+norte de santander,PALMA DE ACEITE,140632
+norte de santander,PAPA,2927
+norte de santander,PAPAYA,560
+norte de santander,PIÑA,1196
+norte de santander,PLATANO,10382
+norte de santander,TOMATE,7856
+norte de santander,TOMATE DE ARBOL,900
+norte de santander,YUCA,37506
+norte de santander,ZANAHORIA,844
+putumayo,AGUACATE,149
+putumayo,ARROZ,4196
+putumayo,ARVEJA,95
+putumayo,CACAO,13859
+putumayo,CAFE,447
+putumayo,CAUCHO,1815
+putumayo,FRIJOL,1726
+putumayo,MAIZ,19835
+putumayo,PAPAYA,9
+putumayo,PIÑA,1315
+putumayo,PLATANO,608
+putumayo,TOMATE DE ARBOL,811
+putumayo,YUCA,8946
+quindio,AGUACATE,12484
+quindio,ARVEJA,26
+quindio,CACAO,1122
+quindio,CAFE,92989
+quindio,CAUCHO,5
+quindio,CAÑA,2474
+quindio,FRIJOL,518
+quindio,MAIZ,3754
+quindio,MAIZ FORRAJERO,436
+quindio,PAPAYA,690
+quindio,PIÑA,5355
+quindio,PLATANO,32071
+quindio,SOYA,2
+quindio,TOMATE,1233
+quindio,TOMATE DE ARBOL,134
+quindio,YUCA,1408
+risaralda,AGUACATE,16234
+risaralda,ARVEJA,31
+risaralda,CACAO,6040
+risaralda,CAFE,194478
+risaralda,CAÑA,30500
+risaralda,FRIJOL,1586
+risaralda,MAIZ,6096
+risaralda,MAIZ FORRAJERO,1895
+risaralda,PAPAYA,179
+risaralda,PIÑA,893
+risaralda,PLATANO,26306
+risaralda,SOYA,130
+risaralda,TOMATE,564
+risaralda,TOMATE DE ARBOL,138
+risaralda,YUCA,679
+san andres,AGUACATE,1
+san andres,MAIZ,3
+san andres,MANGO,2
+san andres,PAPAYA,3
+san andres,PIÑA,1
+san andres,PLATANO,2
+san andres,YUCA,21
+santander,AGUACATE,19479
+santander,ARROZ,12289
+santander,ARVEJA,1748
+santander,CACAO,193525
+santander,CAFE,196745
+santander,CAUCHO,36157
+santander,FRIJOL,20708
+santander,MAIZ,41738
+santander,MAIZ FORRAJERO,3417
+santander,MANGO,308
+santander,PALMA DE ACEITE,357929
+santander,PAPA,766
+santander,PAPAYA,1126
+santander,PIÑA,46326
+santander,PLATANO,27906
+santander,TOMATE,7430
+santander,TOMATE DE ARBOL,759
+santander,YUCA,39273
+santander,ZANAHORIA,157
+sucre,AGUACATE,2289
+sucre,ARROZ,122523
+sucre,CACAO,1236
+sucre,FRIJOL,597
+sucre,MAIZ,76121
+sucre,MAIZ FORRAJERO,2639
+sucre,MANGO,1950
+sucre,PALMA DE ACEITE,7108
+sucre,PAPAYA,91
+sucre,PIÑA,139
+sucre,PLATANO,1774
+sucre,YUCA,55594
+tolima,AGUACATE,54288
+tolima,ARROZ,266635
+tolima,ARVEJA,3284
+tolima,CACAO,46564
+tolima,CAFE,423180
+tolima,CAUCHO,670
+tolima,FRIJOL,48181
+tolima,MAIZ,163467
+tolima,MAIZ FORRAJERO,5616
+tolima,MANGO,29642
+tolima,PALMA DE ACEITE,256
+tolima,PAPA,1638
+tolima,PAPAYA,312
+tolima,PIÑA,576
+tolima,PLATANO,28236
+tolima,SOYA,45
+tolima,TOMATE,2645
+tolima,TOMATE DE ARBOL,3703
+tolima,YUCA,13828
+tolima,ZANAHORIA,406
+valle del cauca,AGUACATE,13455
+valle del cauca,ARROZ,9371
+valle del cauca,ARVEJA,572
+valle del cauca,CACAO,4971
+valle del cauca,CAFE,221110
+valle del cauca,CAÑA,1910493
+valle del cauca,FRIJOL,4992
+valle del cauca,MAIZ,73504
+valle del cauca,MAIZ FORRAJERO,2853
+valle del cauca,MANGO,859
+valle del cauca,PAPA,1275
+valle del cauca,PAPAYA,3893
+valle del cauca,PIÑA,11379
+valle del cauca,PLATANO,40330
+valle del cauca,SOYA,8363
+valle del cauca,TOMATE,5381
+valle del cauca,TOMATE DE ARBOL,776
+valle del cauca,YUCA,2659
+valle del cauca,ZANAHORIA,977
+vaupes,ARROZ,30
+vaupes,CACAO,120
+vaupes,MAIZ,1037
+vaupes,PIÑA,195
+vaupes,TOMATE,1
+vaupes,YUCA,5941
+vichada,AGUACATE,4
+vichada,ARROZ,2030
+vichada,CACAO,3139
+vichada,CAUCHO,906
+vichada,FRIJOL,16
+vichada,MAIZ,58153
+vichada,PALMA DE ACEITE,26827
+vichada,PIÑA,248
+vichada,SOYA,29700
+vichada,TOMATE,680
+vichada,YUCA,2133

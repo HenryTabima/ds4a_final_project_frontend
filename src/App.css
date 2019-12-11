@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.main-wrapper {
+    max-width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.box{
+    box-sizing: border-box;
+    margin: 0 auto;
+    flex: 1 1 auto;
+}
+
+.ControlsArea{
+    grid-area: controls;
+    background-color: #dbd4d3;
+    width: 100%;
+}
+ 
+.ChartsArea{
+    grid-area: charts;
+    max-width: 100%;
+}
+  
+.TimelineArea{
+    grid-area: timeline;
+}
+  
+.ControlWrapper{
+    padding: 0 20px;
+    color: #757780;
+}
+  
+.ControlWrapper p {
+    text-align: center;
+    font-size: 2em;
+    margin: 0;
+}
+
+.Layout {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-areas: "header header"
+                        "controls charts"
+                        "timeline timeline";
+    justify-content: strecht;
+}
+
+.treemap-container{
+    position: absolute;
+    right: 300px;
+}
+
+.sectionHeader{
+    grid-area: header;
+}
+
+.sectionHeader h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    margin: 10px 0;
+    color: whitesmoke;
+}
+
+.scrollSection{
+    height: 100%;
+}
+
+.scrollSection.Crops{
+    background-color: #94AE97;
+}
+
+.scrollSection.Coca{
+    background-color: #EF946C;
+}
+
+.scrollSection.Deforestation{
+    background-color: #004643;
+}
+
+.innerSection{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.legend {
+    padding: 15px;
+    background: #fff;
+    border-radius:5px;
+
+}
+
+.legend i{
+    height: 10px;
+    width: 10px;
+    position: absolute;
+    margin: 5px 0px;
+}
+
+.legend-text{
+    margin-left: 15px;
+}
+
+.yearSelector{
+    position: relative;
+    width: 100%;
+    background-color: rgba(0,0, 0, 0.25);
+    bottom: 90px;
+    z-index: 3000;
+    height: 70px;
+}
+
+.yearSelector h3{
+    color: whitesmoke;
+}
+
+.infoBox{
+    width: 450px;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 5px;
+    position: absolute;
+    left: 90px;
+}
+
+.inner{
+    padding: 30px;
+}
+
+.popupTitle{
+    text-align: center;
+    width: bold;
+    text-transform: uppercase;
+}
+
+.coca-legend{
+    position: absolute;
+    top: 100px;
+    background-color: whitesmoke;
+    z-index: 3000;
+    right: 350px;
+    border-radius: 5px;
+    padding: 15px;
+}
