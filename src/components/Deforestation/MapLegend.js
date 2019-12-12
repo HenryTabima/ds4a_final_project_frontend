@@ -3,14 +3,14 @@ import L from "leaflet";
 
 const getColor = d => {
   return d > 68347
-    ? "#ffa500"
+    ? '#C10000'
     : d > 9887
-    ? "#cf9e00"
-    : d > 4997
-    ? "#9a9600"
-    : d > 2994
-    ? "#5c8d00"
-    : "#008000";
+      ? '#DD5E1F'
+      : d > 4997
+        ? '#F4AE22'
+        : d > 2994
+          ? '#FFFF11'
+          : '#F4FF52'
 };
 
 class Legend extends MapControl {

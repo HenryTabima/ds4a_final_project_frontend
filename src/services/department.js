@@ -9,7 +9,7 @@ const DEPARTMENTS_URL = `${BASE_URL}/api/departments`
 const departmentService = {}
 
 departmentService.getAll = () => {
-  axios.get(DEPARTMENTS_URL)
+  return axios.get(DEPARTMENTS_URL)
     .then(res => res.data.data)
 }
 

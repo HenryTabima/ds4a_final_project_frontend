@@ -9,7 +9,7 @@ import Loader from '../Loader'
 // import { totalPoints } from '../../data/coca/index.js'
 // import { totalCoca } from '../../data/coca_totals.js'
 
-// import { getTotalCoca } from '../../utils/coca-parser'
+import { getTotalCoca } from '../../utils/coca-parser'
 
 const styles = {
   map: {
@@ -41,9 +41,9 @@ export class Coca extends Component {
   componentDidMount () {
     Promise.all([
       import('../../data/coca/index.js'),
-      import('../../data/coca_totals.js')
+      getTotalCoca() // import('../../data/coca_totals.js')
     ]).then(vars => {
-      const [totalPoints, totalCoca] = vars.map(module => module.default)
+      const [totalPoints, totalCoca] = vars.map(module => module.default || module)
       let coca_points = totalPoints[0]
       let total_hectares = coca_points.reduce((c, f) => {
         return c + parseFloat(f[2])

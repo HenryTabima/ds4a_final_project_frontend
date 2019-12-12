@@ -9,9 +9,9 @@ import * as L from 'leaflet';
 import Legend from "./MapLegend";
 import Loader from '../Loader'
 
+import { getDepartmentsGeoJSON } from '../../utils/departments-parser'
 
-// import departments from '../../data/departments.geo.json';
-// import deforestation from '../../data/deforestations.json';
+// import deforestation from '../../data/deforestations.json;
 
 const styles = {
   map: {
@@ -45,11 +45,10 @@ export class Deforestation extends Component {
 
   componentDidMount() {
     Promise.all([
-      import('../../data/departments.geo.json'),
+      getDepartmentsGeoJSON(),
       import('../../data/deforestations.json')
     ]).then(vars => {
-      const [departments, deforestation] = vars.map(module => module.default)
-      console.log(departments)
+      const [departments, deforestation] = vars.map(module => module.default || module)
       this.setState({
         columns: [
           yearsRange,

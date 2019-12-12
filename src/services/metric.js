@@ -9,17 +9,17 @@ const METRICS_URL = `${BASE_URL}/api/metrics`
 const metricService = {}
 
 metricService.getAll = () => {
-  axios.get(METRICS_URL)
+  return axios.get(METRICS_URL)
     .then(res => res.data.data)
 }
 
 metricService.getByType = (type) => {
-  axios.get(`${METRICS_URL}/${type}`)
+  return axios.get(`${METRICS_URL}/${type}`)
     .then(res => res.data.data)
 }
 
 metricService.getByTypeAndYear = (type, year) => {
-  axios.get(`${METRICS_URL}/${type}/${year}`)
+  return axios.get(`${METRICS_URL}/${type}/${year}`)
     .then(res => res.data.data)
 }
 

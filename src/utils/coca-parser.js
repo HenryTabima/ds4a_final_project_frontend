@@ -13,6 +13,7 @@ export async function getTotalCoca () {
       return acc
     }, 0)
     res[years[index].toString()] = total
+    return res
   }, {})
 
   return res

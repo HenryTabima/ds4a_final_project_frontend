@@ -8,6 +8,7 @@ import '../../../node_modules/c3/c3.min.css'
 import TreeMap from 'react-d3-treemap'
 import '../../../node_modules/react-d3-treemap/dist/react.d3.treemap.css'
 import Loader from '../Loader'
+import { getTotalDeforestation  } from '../../utils/deforestation-parser'
 
 export class Crops extends Component {
   constructor () {
@@ -22,9 +23,9 @@ export class Crops extends Component {
   componentDidMount () {
     Promise.all([
       import('../../data/treemap.json'),
-      import('../../data/departments_loss.json')
+      getTotalDeforestation() // import('../../data/departments_loss.json')
     ]).then(vars => {
-      const [tree, deforestation] = vars.map(module => module.default)
+      const [tree, deforestation] = vars.map(module => module.default || module)
       const barKeys = Object.keys(deforestation)
       const barValues = Object.values(deforestation)
 
